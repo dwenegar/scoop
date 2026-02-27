@@ -5,7 +5,7 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "",
+            "url": "https://github.com/dwenegar/lua55/releases/download/v5.5.0/lua-$version-windows-amd64.zip",
             "hash": "8ab7c2f524e05feb0d2bf23c362032287b1560f6645fb9efeb8bab51f2d8b756"
         }
     },
